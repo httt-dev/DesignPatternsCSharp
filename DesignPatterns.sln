@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateDesign", "StateDesign\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{962599EB-FB30-4927-8DA2-E1A3DF9863EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailwayOP", "RailwayOP\RailwayOP.csproj", "{07AF478D-7C79-46AE-BFDD-9C863A9B51A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{962599EB-FB30-4927-8DA2-E1A3DF9863EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{962599EB-FB30-4927-8DA2-E1A3DF9863EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{962599EB-FB30-4927-8DA2-E1A3DF9863EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AF478D-7C79-46AE-BFDD-9C863A9B51A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AF478D-7C79-46AE-BFDD-9C863A9B51A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AF478D-7C79-46AE-BFDD-9C863A9B51A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AF478D-7C79-46AE-BFDD-9C863A9B51A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
