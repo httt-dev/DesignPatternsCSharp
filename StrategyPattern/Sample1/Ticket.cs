@@ -42,7 +42,7 @@ namespace StrategyPattern.Sample1
 
         public override string ToString()
         {
-            return $"{_promoteStrategy.GetType()} : Ticket {_name} with {_price} ,after discount price >> {GetPromotePrice()}";
+            return $"{_promoteStrategy.GetType().Name} : Ticket {_name} with {_price} ,after discount price >> {GetPromotePrice()}";
         }
     }
 }
